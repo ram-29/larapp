@@ -49,3 +49,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Dev. Environment Reminder
+If your using 'sudo' machines go chown/mod 777 '/storage' and '/bootstrap' directories, can't seem to find a workaround with this. Server is a regular LAMP Stack on a Virtual host. Might add some functionality in the future.
